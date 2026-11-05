@@ -1,0 +1,1 @@
+window.SK_META = {"name": "gre-essay-planner", "title": "Essay Planner", "exam": "GRE", "area": "GRE Writing and Planning", "desc": "Plan an Issue essay in five minutes: take a position, list reasons and examples, and order your paragraphs.", "content": ["issue_prompts.json"], "n": 37};
